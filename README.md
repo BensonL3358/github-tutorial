@@ -10,7 +10,7 @@ Git is the code for your project and GitHub is a website where you can share you
 ---
 ## Initial Setup
 You can set up your Github account by entering your email and making a password. You can now share your projects from CS50 IDE to GitHub for others to see.
-[IDE is a place where you can code and create new projects.](https.//github.com/lbaerga/github-tutorial) 
+[IDE is a place where you can code and create new projects.](github.com/hstatsep/ide50) 
 ---
 ## Repository Setup
 First, you go to github. You click the plus button and make a new repository. You put the name then create. Then, you go into github learning. You make a new file which is the name of your repo. 
