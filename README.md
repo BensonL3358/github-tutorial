@@ -18,7 +18,7 @@ Then, you go into the file and touch README.md to make the readme. After, you gi
 
 ---
 ## Workflow & Commands
-A workflow is the proccess of making changes to something then psuhing it to github in order for other people to see those changes.
+A workflow is the proccess of making changes to something then pushing it to github in order for other people to see those changes.
 After you have made the changes you want use Git add to tell git you are ready so commit the changes you made
 Then git commit to save the changes you made and git init to initialize your new github repository that you just made.
 Lastly you git push in order to push your new version to github.
